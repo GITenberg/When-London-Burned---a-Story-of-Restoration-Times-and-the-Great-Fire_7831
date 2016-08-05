@@ -1,0 +1,42 @@
+_repo: When-London-Burned---a-Story-of-Restoration-Times-and-the-Great-Fire_7831
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: The hero of this story was the son of a nobleman who had lost his estates
+  during the troublous times of the Commonwealth. Instead of hanging idly about the
+  court seeking favors, Cyril Shenstone determined to maintain himself by honest work.
+  During the Great Plague and the Great Fire, which visited London with such terrible
+  results, Sir Cyril was prominent among those who brought help to the panic-stricken
+  inhabitants. This tale has rich variety of interest, both national and personal,
+  and in the hero you have an English lad of the noblest type wise, humane, and unselfish.
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7831'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Great Britain -- History -- Restoration, 1660-1688 -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcc 'PR'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Royalists -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Great Fire, London, England, 1666 -- Juvenile fiction'
+- !lcsh 'Kidnapping -- Juvenile fiction'
+- GITenberg
+title: 'When London Burned : a Story of Restoration Times and the Great Fire'
+url: http://www.gutenberg.org/ebooks/7831
