@@ -1,5 +1,8 @@
 _repo: When-London-Burned---a-Story-of-Restoration-Times-and-the-Great-Fire_7831
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Henty, G. A. (George Alfred)
@@ -16,6 +19,8 @@ description: The hero of this story was the son of a nobleman who had lost his e
   results, Sir Cyril was prominent among those who brought help to the panic-stricken
   inhabitants. This tale has rich variety of interest, both national and personal,
   and in the hero you have an English lad of the noblest type wise, humane, and unselfish.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7831#When-London-Burned---a-Story-of-Restoration-Times-and-the-Great-Fire
 gutenberg_bookshelf: Children's Fiction
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
